@@ -37,7 +37,6 @@ body {
   border-color: white;
   border-style: dashed;
 }
-
 @media (max-width: 800) {
   body {
     flex-direction: column;
